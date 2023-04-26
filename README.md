@@ -1,8 +1,11 @@
-C:\Users\gblal\OneDrive\Documentos\1ESEDGE\Checkpoint 2\README.md# Template para desenvolvimento e entrega do Checkpoint 1
+C:\Users\gblal\OneDrive\Documentos\1ESEDGE\Checkpoint 2\README.md# 
 
-Esse é um guia simples do README e deve ser customizado pelo estudante
+
 
 **Nome: Gabriel Alves Maia Rodrigues** 
+**Nome: Lucas Vassão** 
+**Nome: Vinicius Pina**
+**Nome: Pedro Guerra** 
 
 **Turma: 1ESPX*
 
